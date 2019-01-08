@@ -1,0 +1,5 @@
+@import url(https://s3-eu-west-1.amazonaws.com/fuse-public-assets/Public+assets/pmi/live/css/community-link-card.css);
+
+section .card .bg-image{
+ background-image: url('https://fusion-universal-assets-beta.s3.amazonaws.com/file-host/c72893a8-6c50-42cc-a9f9-c0bf7e0a3fe7-1138578614544098472-/73/canada-bg.png') !important;   
+}
